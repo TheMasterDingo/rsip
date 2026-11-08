@@ -4,7 +4,7 @@ Look up any Star Citizen player's public RSI profile from your terminal.
 
 `rsip` fetches a citizen's page on [robertsspaceindustries.com](https://robertsspaceindustries.com) and prints the interesting parts in one colour-coded block: handle, citizen record, badge, enlistment date, location, languages, bio and organization memberships. It is a single PowerShell script with no dependencies.
 
-![rsip output](rsi-profile.png)
+![rsip output](rsip.png)
 
 ## What it shows
 
